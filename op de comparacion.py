@@ -1,0 +1,6 @@
+== IGUAL (1 == 1 = TRUE)
+!= DISTINTO (1 != 1 = FALSE)
+> MAYOR QUE (1 > 2 = FALSE)
+>= MAYOR IGUAL (1 >= 1 = TRUE)
+< MENOR (2 < 3 = TRUE)
+<= MENOR IGUAL (2 <= 1 = TRUE)
